@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
+    "username": "",
     "password": "",
-    "database": "nodejs",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "database": "",
+    "host": "",
+    "dialect": ""
   },
   "test": {
-    "username": "root",
+    "username": "",
     "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "database": "",
+    "host": "",
+    "dialect": ""
   },
   "production": {
-    "username": "ssafytown",
-    "password": "ssafytown",
-    "database": "ssafytown",
-    "host": "k6c204.p.ssafy.io",
-    "dialect": "mysql"
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
   }
 }
